@@ -1,0 +1,40 @@
+.swiper_list{
+  width: 750rpx;
+  height: 340rpx;
+}
+.swiper_image{
+  width: 100%;
+}
+.index_cate{
+  display: flex;
+}
+.nav_cate{
+  padding: 20rpx;
+  flex: 1;
+}
+.img_cate{
+  width: 100%;
+}
+.index_floor{
+
+}
+.floor_group{
+
+}
+.floor_title{
+
+}
+.floor_list{
+
+}
+.floor_title_img{
+  width: 100%;
+}
+.floor_nav{
+  float: left;
+  width: 33.33%;
+  
+}
+.floor_nav_img{
+  width: 100%;
+}
